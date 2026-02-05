@@ -1,0 +1,20 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "luduvo",
+  "homepage": "https://luduvo.com/components",
+  "items": [
+    {
+      "name": "numeric-display",
+      "type": "registry:component",
+      "title": "Numeric Display",
+      "description": "Animated numeric display, inspired by SwiftUI's numericText transition.",
+      "dependencies": ["framer-motion"],
+      "files": [
+        {
+          "path": "registry/luduvo/blocks/numeric-display/numeric-display.tsx",
+          "type": "registry:component"
+        }
+      ]
+    }
+  ]
+}
