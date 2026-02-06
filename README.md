@@ -3,7 +3,7 @@ Our shadcn component registry. [See all component files](https://github.com/ludu
 
 ## [Numeric Display](https://luduvo.com/components/numeric)
 Animated numeric display, inspired by SwiftUI's numericText transition.
-<video src="https://github.com/user-attachments/assets/541f8eea-0744-47e6-8243-0d83295be755"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CItH4O6a91U?si=2edh3Rp6-WxcMMVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
